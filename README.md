@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm a Junior ASP.NET Developer with a passion for building web applications and exploring new technologies. I have experience working with C#, .NET Core, and front-end frameworks. I'm constantly learning and excited to contribute to projects that challenge my skills and help me grow as a developer. Looking forward to connecting and collaborating!
+Hi! I'm an ASP.NET Developer with a passion for building web applications and exploring new technologies. I have experience working with C#, .NET Core, and front-end frameworks. I'm constantly learning and excited to contribute to projects that challenge my skills and help me grow as a developer. Looking forward to connecting and collaborating!
 
 - 📫 How to reach me **taha.radwan.alfoghi02@gmail.com**
 
